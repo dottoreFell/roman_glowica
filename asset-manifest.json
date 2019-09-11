@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/glowica_romana/static/css/main.f26ac980.chunk.css",
+    "main.js": "/glowica_romana/static/js/main.5304989b.chunk.js",
+    "main.js.map": "/glowica_romana/static/js/main.5304989b.chunk.js.map",
+    "runtime~main.js": "/glowica_romana/static/js/runtime~main.076da681.js",
+    "runtime~main.js.map": "/glowica_romana/static/js/runtime~main.076da681.js.map",
+    "static/js/2.359922a5.chunk.js": "/glowica_romana/static/js/2.359922a5.chunk.js",
+    "static/js/2.359922a5.chunk.js.map": "/glowica_romana/static/js/2.359922a5.chunk.js.map",
+    "index.html": "/glowica_romana/index.html",
+    "precache-manifest.1ee15d5f2b0d2f6555a5e5ecc1394d63.js": "/glowica_romana/precache-manifest.1ee15d5f2b0d2f6555a5e5ecc1394d63.js",
+    "service-worker.js": "/glowica_romana/service-worker.js",
+    "static/css/main.f26ac980.chunk.css.map": "/glowica_romana/static/css/main.f26ac980.chunk.css.map"
+  }
+}
